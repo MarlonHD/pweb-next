@@ -5,6 +5,7 @@ export default function Home(){
             <h2>
                 Esta é a página inicial.
             </h2>
+            <a href="./paginaInicial">Receitas</a>
         </div>
     ) 
 }
