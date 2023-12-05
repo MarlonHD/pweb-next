@@ -94,7 +94,7 @@ export default function Home(){
             children: [
                 {
                     title: 'movies/[id].js',
-                    key: './receita09/onemovie/tt0095801',
+                    key: './receita09/movies/tt0095801',
                 },
                 {
                     title: 'pokemon/[id].js',
