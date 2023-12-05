@@ -98,7 +98,7 @@ export default function Home(){
                 },
                 {
                     title: 'pokemon/[id].js',
-                    key: './receita09/pokemon/0',
+                    key: './receita09/pokemon/1',
                 },
             ],
         },
