@@ -1,7 +1,6 @@
 //api key: 9124015e
 
 import styles from './styles.module.css';
-import useSWR from 'swr'
 import { useRouter } from 'next/router';
 
 export async function getServerSideProps(context){

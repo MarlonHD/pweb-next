@@ -9,8 +9,10 @@ export default function Home(){
     ) 
 }
 
-export function Teste(){
 
+
+
+export function Teste(){
     return(
         <div>
             <h1>Função criada em index.js</h1>
@@ -27,4 +29,3 @@ export function Titulo(){
         </div>
     )
 }
-
